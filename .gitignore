@@ -1,0 +1,9 @@
+#This file allows for files that are detrimental to security to remain out of Git Repos, where they belong.
+#This repo is public, and is for training purposes only.
+modules/
+.tmp/
+.terraform
+terraform.tfstate
+terraform.tfstate.*
+out.plan
+*.pub
