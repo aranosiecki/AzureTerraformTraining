@@ -1,5 +1,5 @@
 provider "azurerm" {
-#    subscription id = 
+#    subscription id = ""
 }
 /*
 provider "azuread"{
